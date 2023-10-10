@@ -12,3 +12,31 @@ p, h1 {
     margin-right: auto;
     width: 50%;
 }
+
+.barra {
+    background-color: aquamarine;
+}
+
+.img-pq {
+    width: 300px;
+}
+
+#texto-rojo {
+    color:red;
+}
+
+#texto-azul {
+    color:blue;
+}
+
+#texto-naranja {
+    color:orange;
+}
+
+#texto-verde {
+    color:green;
+}
+
+#texto-fucsia {
+    color:fuchsia;
+}
