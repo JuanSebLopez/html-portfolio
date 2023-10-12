@@ -1,0 +1,26 @@
+.red-square {
+    background-color: red;
+    height: 400px;
+    width: 600px;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-square{
+    background-color: darkblue;
+    height: 200px;
+    width: 600px;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.white-circle {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
